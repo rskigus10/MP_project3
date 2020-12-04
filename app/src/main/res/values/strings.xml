@@ -1,5 +1,23 @@
 <resources>
     <string name="app_name">Melody</string>
-    <string name="content_text">Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</string>
-    <string name="content_price">Rp. 7.500.000</string>
+    <string name="content_text">Gitar listrik dengan merek Cort cukup luas dikenal di Indonesia dengan nilai penjualan yang tak kalah tingginya dengan merek sebelumnya. Salah satu tipe yang cukup diminati adalah Cort X1-1-WH sebagai salah satu gitar listrik akustik. Bodi yang dibentuk dengan material kayu agatis berkualitas sementara pada bagian neck menggunakan Kayu Maple. </string>
+    <string name="content_specs_display">5.0 inches\n </string>
+    <string name="content_specs_size">50cm-70cm</string>
+    <string name="content_specs_spesifik">- Neck MAHONI SOLID kualitas Premium
+- Sudah ada besi didalam neck (Bisa distel jika melengkung) doble action.
+- BODY mahogany FULL
+- Fretboard ROSEWOOD
+-INLAY TANAM Model khas Gibson
+- Dryer grover
+- 22 fret
+- Fret baja
+- Pickguard ABS
+- Pin STRAP besi.
+- Finishing gloss/mengkilap
+-Tremolo stainlist
+- Potensiometer :2 Kontrol Volume Dorong / Tarik.
+2 Kontrol Nada
+-Doble pickup</string>
+    <string name="content_price">Rp. 1.900.000</string>
+
 </resources>
